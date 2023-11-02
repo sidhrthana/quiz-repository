@@ -2,8 +2,8 @@
 # Project Name
 Stack-up project
 ## Team members
-1. Name [Embed personal github URL]
-2. Name [Embed perosnal github URL]
+1. Sidharthan A [Embed personal github URL]
+2. Muhammed Sahal P H [Embed perosnal github URL]
 ## Team Id
 Team id here
 ## Link to product walkthrough
